@@ -1,0 +1,2 @@
+[staging_servers]
+linux1 ansible_host=51.250.8.28 ansible_user=nick ansible_ssh_private_key_file=/home/nick/.ssh/id_rsa
